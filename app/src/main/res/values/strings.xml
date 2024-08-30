@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Clone</string>
+    <string name="loading_state_text">Loading…</string>
+    <string name="error_state_text">Unable to fetch data</string>
+    <string name="user_name_error_text">User Name is not available</string>
+    <string name="text_field_label_text">Enter a Github user id</string>
+    <string name="search_button_text">SEARCH</string>
+    <string name="last_updated_text">Last updated: %1$s</string>
+    <string name="forks_text">Forks: %1$s</string>
+    <string name="stars_text">Stars: %1$s</string>
+</resources>
